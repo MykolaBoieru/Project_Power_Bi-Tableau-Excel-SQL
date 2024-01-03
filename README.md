@@ -71,5 +71,9 @@ Road Accident Dashboard for year 2021 and 2022
 - Relation between Casualties by Area/Location and by Day/Night
 
 
+## Report
 
+Please see files:
+SQL_Project.sql : https://github.com/MykolaBoieru/Project_Power_Bi-Tableau-Excel-SQL/blob/main/SQL_Project.sql
+SQL_Queries_Road_Accident_Report.docx: https://github.com/MykolaBoieru/Project_Power_Bi-Tableau-Excel-SQL/blob/main/SQL_Queries_Road_Accident_Report.docx
 
